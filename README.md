@@ -16,3 +16,6 @@
 4. helm uninstall helm-chart-demo-release
 
 (It uninstalls the helm release. It deletes all the kubernetes objects in the cluster under this release)
+
+
+role.yaml, rolebinding.yaml, management.service.yaml added as per mychange project
